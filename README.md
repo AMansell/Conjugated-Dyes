@@ -3,7 +3,9 @@ A simulation of uv-vis absorption spectra of a handful of cyanine dyes
 
 To use this program, download the zip folder and unzip in the desired location. The executable, .exe, can then be run from the unzipped folder.
 
-Once running, the desired dye and concentration can be selected using the appropriate drop-down menu and entry cells. The progrom will display a simulated spectra modeled using four gaussian functions the parameters of which were determined by fitting to spectra either collected from the chemistry labs at the University of Florida in Gainesville or found in the literature. The concentration should be kept low (determined by the molar absorptivity and concentration) so that the absorption is below 1.
+Once running, the desired dye and concentration can be selected using the appropriate drop-down menu and entry cells. The program will display a simulated spectra modeled using four gaussian functions the parameters of which were determined by fitting to spectra either collected from the chemistry labs at the University of Florida in Gainesville or found in the literature. The concentration should be kept low (determined by the molar absorptivity and concentration) so that the absorption is below 1.
+
+The structure of each dye can be found in the .pdf file, 'Dye Structures'
 
 Currently there is only a windows version of the program.
 
