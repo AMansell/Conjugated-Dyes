@@ -15,5 +15,8 @@ As a brief overview, the π-electrons in the polymethine chain occupy the HOMO (
 
 Predictions using this model follow the correct trend (energy and chain length are inversely related), but deviate from measured values by several eV. Predicted values can be brought in line with measurement by introducing a "correction factor" to the length of the chain. This correction factor is found experimentally, and students are often tasked with giving a physical explanation for the correction factor and possibly with proposing a follow up experiment to test this hypothesis. However, it can be difficult to provide students with the opportunity to perform this follow experiment due to limitations in time and materials.
 
+
 This program aims to provide an opportunity for students to collect absorption spectra from additional conjugated dyes. The program has approximately 40 dyes available, the spectra of which can be collected by selecting (1) the dye, (2) the volume of a 1E-3 M stock solution of the dye and (3) the volume of the solvent (MeOH). Each spectrum is simulated using the sum of 4 gaussians, the parameters of which are chosen to fit spectra which are collected either in-house or gathered from published sources.
+
+©Copyright 2020 University of Florida Research Foundation, Inc. All Rights Reserved
 
